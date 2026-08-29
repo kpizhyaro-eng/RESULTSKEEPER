@@ -1,0 +1,3 @@
+@echo off
+echo Opening Academic Results Portal...
+start "" "%~dp0index.html"
